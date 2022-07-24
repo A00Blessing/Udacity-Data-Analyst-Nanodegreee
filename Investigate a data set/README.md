@@ -1,5 +1,18 @@
-Project: Investigate a Dataset
+**Project: Investigate a Dataset**
 
 In this project, choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
-The data set selected was the no-show appointment data set. This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. The patients may or may not show up for their scheduled appointments due to some various reasons. An investigation of the data set was carried out to see if any of the patients' detials, given as variables, have any effect to whether or not they show up to their appointments.
++ **Step One - Choose Your Data Set**
+Open a document with links and information about data sets that you can investigate for this project. You must choose one of these datasets to complete the project.
+
++ **Step Two - Get Organized**
+We recommend creating a single folder that will eventually contain:
+1. The report communicating your findings
+2. Any Python code you wrote as part of your analysis
+3. The data set you used (which you will not need to submit)
+
++ **Step Three - Analyze Your Data**
+Brainstorm some questions you could answer using the data set you chose, then start answering those questions. 
+
++ **Step Four - Share Your Findings**
+Once you have finished analyzing the data, create a report that shares the findings you found most interesting. If you use a Jupyter notebook, share your findings alongside the code you used to perform the analysis. 
