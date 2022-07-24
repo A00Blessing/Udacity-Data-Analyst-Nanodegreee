@@ -9,10 +9,10 @@ Open a document with links and information about data sets that you can investig
 We recommend creating a single folder that will eventually contain:
 1. The report communicating your findings
 2. Any Python code you wrote as part of your analysis
-3. The data set you used (which you will not need to submit)
+3. The data set you used.
 
 + **Step Three - Analyze Your Data**
 Brainstorm some questions you could answer using the data set you chose, then start answering those questions. 
 
 + **Step Four - Share Your Findings**
-Once you have finished analyzing the data, create a report that shares the findings you found most interesting. If you use a Jupyter notebook, share your findings alongside the code you used to perform the analysis. 
+Create a report that shares the findings you found most interesting. If you use a Jupyter notebook, share your findings alongside the code you used to perform the analysis. 
